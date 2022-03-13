@@ -1,0 +1,2 @@
+lexicosintactico.Instrctivo$1
+lexicosintactico.Instrctivo

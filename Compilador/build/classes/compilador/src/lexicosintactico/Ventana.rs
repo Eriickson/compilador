@@ -1,0 +1,12 @@
+lexicosintactico.Ventana$11
+lexicosintactico.Ventana$10
+lexicosintactico.Ventana$9
+lexicosintactico.Ventana$8
+lexicosintactico.Ventana$7
+lexicosintactico.Ventana$6
+lexicosintactico.Ventana$5
+lexicosintactico.Ventana$4
+lexicosintactico.Ventana$3
+lexicosintactico.Ventana$2
+lexicosintactico.Ventana$1
+lexicosintactico.Ventana
